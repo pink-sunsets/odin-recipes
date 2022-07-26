@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(235, 219, 219);
+    color: #4d4d4d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 110%;
+    
+}
+h1 {
+    font-weight: 700;
+    font-size: 42px;
+}
+
+li, 
+p,
+a {
+    font-size: 24px;
+}
+
+a {
+    color: rgb(57, 104, 104);
+}
+
+li {
+    line-height: 160%;
+}
+
+.descr {
+    font-size: 28px;
+}
